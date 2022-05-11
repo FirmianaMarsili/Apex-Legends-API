@@ -27,7 +27,7 @@ namespace Apex.Legends.API
     }
     public class ResponseBase<T> where T : ErrorBase
     {
-        public string Auth => "edbe9f73be249dd4b07884747ee141b9";
+        public string Auth => "";
 
         private const string Host = "https://api.mozambiquehe.re/";
 

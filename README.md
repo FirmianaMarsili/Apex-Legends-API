@@ -2,7 +2,7 @@
 
 **get your [API Key](https://portal.apexlegendsapi.com/)**
 
-**replace[`YOUR_API_KEY`](https://github.com/FirmianaMarsili/Apex-Legends-API/blob/fa0461eb2aa09e044c030f8d575536e35f62fe1f/Apex-Legends-API/ResponseBase.cs#L30)**
+**replace[`YOUR_API_KEY`](https://github.com/FirmianaMarsili/Apex-Legends-API/blob/638cf284167855864b1d5fc045f7f90b6ccde115/Apex-Legends-API/ResponseBase.cs#L30)**
 
 Examples：
   ```
@@ -19,5 +19,3 @@ Examples：
   ```
   # https://apexlegendsapi.com/
   
-# Apex-Legends-API
-# Apex-Legends-API
